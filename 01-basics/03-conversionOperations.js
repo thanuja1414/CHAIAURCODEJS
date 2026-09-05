@@ -34,3 +34,26 @@ let m = 44;
 let stringNumber = String(m)
 console.log(stringNumber)
 console.log(typeof stringNumber)
+
+//Operations 
+let value = 3
+let negValue = -value
+console.log(negValue)
+
+
+let str1 = "hello"
+let str2 = " tanuja"
+let str3 = str1 + str2
+console.log(str3)
+
+
+// the conversion starts from left to right
+console.log('1'+2+2)
+console.log(1+2+'2')
+
+console.log(+true) // 1
+console.log(+"")  // 0
+
+let num1,num2,num3
+num1 = num2 = num3 = 2+2
+
