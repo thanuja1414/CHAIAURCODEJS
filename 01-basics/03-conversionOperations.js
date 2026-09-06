@@ -12,7 +12,7 @@ let score2 = null
 console.log(typeof score2)
 console.log(typeof(score2))
 
-let valueInNumber2 = Number(score)
+let valueInNumber2 = Number(score2)
 console.log(typeof valueInNumber2)
 console.log(valueInNumber2)
 
